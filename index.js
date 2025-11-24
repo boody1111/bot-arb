@@ -1,1 +1,1055 @@
-const _0x1ff061=_0x5a3f;(function(_0x10a77b,_0x3efaf5){const _0x53f384=_0x5a3f,_0x2b1545=_0x10a77b();while(!![]){try{const _0x55966d=parseInt(_0x53f384(0x1c6))/0x1*(-parseInt(_0x53f384(0x1a5))/0x2)+parseInt(_0x53f384(0x1c4))/0x3*(-parseInt(_0x53f384(0x1ea))/0x4)+-parseInt(_0x53f384(0x1c1))/0x5*(parseInt(_0x53f384(0x1b0))/0x6)+-parseInt(_0x53f384(0x175))/0x7+parseInt(_0x53f384(0x191))/0x8+-parseInt(_0x53f384(0x1bd))/0x9*(-parseInt(_0x53f384(0x1a1))/0xa)+-parseInt(_0x53f384(0x1be))/0xb*(-parseInt(_0x53f384(0x194))/0xc);if(_0x55966d===_0x3efaf5)break;else _0x2b1545['push'](_0x2b1545['shift']());}catch(_0x5fdcdd){_0x2b1545['push'](_0x2b1545['shift']());}}}(_0x5daf,0xacb08));const assets=require(_0x1ff061(0x1b1)),crypto=require(_0x1ff061(0x1e2)),os=require('os'),axios=require(_0x1ff061(0x1f7)),config=require(_0x1ff061(0x16f)),package=require('../package.json');module[_0x1ff061(0x19f)][_0x1ff061(0x184)]=async function(_0x294e35,_0x1cd694,_0x1f49c0){const _0x3da6a8=_0x1ff061,_0x52e340={'okcyZ':_0x3da6a8(0x1e3),'HxVmC':function(_0x5f20cc,_0x5a773f){return _0x5f20cc(_0x5a773f);},'WSqAs':_0x3da6a8(0x1af),'BEHKs':function(_0x4d4ca9,_0x148802){return _0x4d4ca9(_0x148802);},'ayCGP':_0x3da6a8(0x1f7),'vFnCw':function(_0x2de1df,_0x337cd5){return _0x2de1df==_0x337cd5;},'qpMat':_0x3da6a8(0x1bc),'XTRix':function(_0xe2b9fc,_0x1bdf6d){return _0xe2b9fc!==_0x1bdf6d;},'NOdHV':'uPQUd','BOrPo':'cwLBG','akRTA':'getLink','NRdLA':function(_0x441f81,_0x3b9ac0){return _0x441f81+_0x3b9ac0;},'hDhYI':_0x3da6a8(0x19e),'GiUYR':'video','RcPUW':_0x3da6a8(0x1e6)};_0x52e340[_0x3da6a8(0x1ad)](require,_0x52e340['WSqAs']);const _0x9c1a4=_0x52e340[_0x3da6a8(0x1fa)](require,_0x52e340['ayCGP']);if(_0x52e340['vFnCw'](_0x52e340[_0x3da6a8(0x17d)],_0x1cd694)){if(_0x52e340['XTRix'](_0x52e340[_0x3da6a8(0x1bb)],_0x52e340[_0x3da6a8(0x193)])){const _0x8f9475=require('youtube-search-api');return _0x294e35?_0x4238dc=(await _0x8f9475[_0x3da6a8(0x188)](_0x294e35,!0x1,0x6))[_0x3da6a8(0x17c)]:console[_0x3da6a8(0x17a)](_0x3da6a8(0x1e0));}else return _0x353167=_0x3a31db['replace'](_0x3da6a8(0x189),'\x0a')[_0x3da6a8(0x18d)](/<\/?(i|em)>/g,'*')[_0x3da6a8(0x18d)](/<\/?b>/g,'**')[_0x3da6a8(0x18d)](/~!|!~/g,'||')[_0x3da6a8(0x18d)](_0x3da6a8(0x1ed),'&')[_0x3da6a8(0x18d)](_0x3da6a8(0x1a7),'<')[_0x3da6a8(0x18d)]('&gt;','>')['replace'](_0x3da6a8(0x1f2),'\x22')[_0x3da6a8(0x18d)](_0x52e340[_0x3da6a8(0x19c)],'\x27'),_0x27061b;}if(_0x52e340[_0x3da6a8(0x1c2)]==_0x1cd694){var _0x4238dc=(await _0x9c1a4[_0x3da6a8(0x1ee)](_0x3da6a8(0x197),{'url':_0x52e340['NRdLA'](_0x52e340['hDhYI'],_0x294e35)}))[_0x3da6a8(0x1ae)];return _0x52e340[_0x3da6a8(0x18c)]==_0x1f49c0?{'title':_0x4238dc[_0x3da6a8(0x177)],'duration':_0x4238dc['duration'],'download':{'SD':_0x4238dc['medias'][0x1][_0x3da6a8(0x18b)],'HD':_0x4238dc[_0x3da6a8(0x176)][0x2][_0x3da6a8(0x18b)]}}:_0x52e340[_0x3da6a8(0x171)](_0x52e340['RcPUW'],_0x1f49c0)?{'title':_0x4238dc[_0x3da6a8(0x177)],'duration':_0x4238dc[_0x3da6a8(0x18e)],'download':_0x4238dc[_0x3da6a8(0x176)][0x3][_0x3da6a8(0x18b)]}:void 0x0;}},module['exports'][_0x1ff061(0x180)]=function(_0x2d7bda,_0x8aba98,_0x45db8e){const _0x48055b=_0x1ff061,_0x9c783a={'FAxSd':function(_0x4f4507,_0x3e0092){return _0x4f4507(_0x3e0092);},'coVHF':_0x48055b(0x1b2),'eRVOS':_0x48055b(0x180)},_0x579239=global[_0x48055b(0x1ae)][_0x48055b(0x1ec)][_0x48055b(0x1e9)](_0x9c783a[_0x48055b(0x1f1)](parseInt,_0x8aba98))||{};return global[_0x48055b(0x1b8)][_0x48055b(0x1cb)][_0x48055b(0x1ab)](global[_0x48055b(0x1b9)](_0x9c783a[_0x48055b(0x185)],_0x9c783a['eRVOS'],_0x579239[_0x48055b(0x187)](_0x48055b(0x16e))?_0x579239[_0x48055b(0x16e)]:global[_0x48055b(0x1d2)][_0x48055b(0x16e)],_0x2d7bda),_0x8aba98,_0x45db8e);},module[_0x1ff061(0x19f)][_0x1ff061(0x19b)]=function(_0x3c1ea8){const _0x42ae12=_0x1ff061,_0x36209d={'TRWpp':'<br>','AyaOt':_0x42ae12(0x1ed),'dUUom':_0x42ae12(0x1a7),'INfBu':'&gt;','HqEpo':'&#039;'};return _0x3c1ea8=_0x3c1ea8[_0x42ae12(0x18d)](_0x36209d['TRWpp'],'\x0a')['replace'](/<\/?(i|em)>/g,'*')['replace'](/<\/?b>/g,'**')['replace'](/~!|!~/g,'||')[_0x42ae12(0x18d)](_0x36209d['AyaOt'],'&')['replace'](_0x36209d[_0x42ae12(0x1c0)],'<')[_0x42ae12(0x18d)](_0x36209d['INfBu'],'>')[_0x42ae12(0x18d)]('&quot;','\x22')[_0x42ae12(0x18d)](_0x36209d['HqEpo'],'\x27'),_0x3c1ea8;},module['exports'][_0x1ff061(0x1e8)]=async function(_0x30666c,_0x3dd4cc){const _0x56685a=_0x1ff061,_0x37b583={'jbbDM':function(_0x4acae3,_0x1215a5){return _0x4acae3===_0x1215a5;},'gesbh':_0x56685a(0x1cd),'IPNYg':_0x56685a(0x1e5),'rzmVa':'error','mEcTM':function(_0x53f0dc,_0x435376){return _0x53f0dc(_0x435376);},'SlFlZ':_0x56685a(0x1f7),'YcUZz':_0x56685a(0x179)},{createWriteStream:_0xd90fc6}=_0x37b583[_0x56685a(0x192)](require,'fs'),_0x4bb5dc=_0x37b583[_0x56685a(0x192)](require,_0x37b583[_0x56685a(0x1bf)]),_0xc5a87c=await _0x37b583[_0x56685a(0x192)](_0x4bb5dc,{'method':_0x56685a(0x1da),'responseType':_0x37b583[_0x56685a(0x1f5)],'url':_0x30666c}),_0x37a902=_0xd90fc6(_0x3dd4cc);return _0xc5a87c[_0x56685a(0x1ae)][_0x56685a(0x1fc)](_0x37a902),new Promise((_0xe3ab9c,_0x1a8e03)=>{const _0x2354bf=_0x56685a;if(_0x37b583[_0x2354bf(0x1c5)](_0x37b583[_0x2354bf(0x19a)],_0x37b583[_0x2354bf(0x19a)]))_0x37a902['on'](_0x37b583['IPNYg'],_0xe3ab9c),_0x37a902['on'](_0x37b583['rzmVa'],_0x1a8e03);else return _0x37cfce[_0x2354bf(0x17a)](_0x1e9d41);});},module[_0x1ff061(0x19f)][_0x1ff061(0x172)]=async function(_0x56a0df){const _0x30bcc4=_0x1ff061,_0x388ac2={'HELKj':function(_0x14cef2,_0x22cf76){return _0x14cef2(_0x22cf76);},'vtfTE':_0x30bcc4(0x1f7),'sIjYL':'GET'};try{const _0x321ca7=_0x388ac2[_0x30bcc4(0x1a4)](require,_0x388ac2['vtfTE']),_0x527726=await _0x388ac2[_0x30bcc4(0x1a4)](_0x321ca7,{'method':_0x388ac2['sIjYL'],'url':_0x56a0df}),_0x577aa8=_0x527726;return _0x577aa8;}catch(_0x36043c){return console[_0x30bcc4(0x17a)](_0x36043c);};},module[_0x1ff061(0x19f)][_0x1ff061(0x1d1)]=function(_0x2d297f){const _0x1bd326=_0x1ff061,_0x6fafe8={'KKnOn':'3|1|4|0|2','tqyJo':function(_0x5e8aee,_0x2d158e){return _0x5e8aee<_0x2d158e;},'oUzJK':function(_0x122765,_0x24e447){return _0x122765*_0x24e447;},'flWZL':'ABCDKCCzwKyY9rmBJGu48FrkNMro4AWtCkc1flmnopqrstuvwxyz'},_0x3e22e5=_0x6fafe8[_0x1bd326(0x17b)][_0x1bd326(0x17e)]('|');let _0x5cbc69=0x0;while(!![]){switch(_0x3e22e5[_0x5cbc69++]){case'0':for(var _0x4c18c4=0x0;_0x6fafe8[_0x1bd326(0x1f0)](_0x4c18c4,_0x2d297f);_0x4c18c4++)_0x13303c+=_0x36b37a['charAt'](Math[_0x1bd326(0x1aa)](_0x6fafe8[_0x1bd326(0x1dd)](Math['random'](),_0xfcd8e1)));continue;case'1':var _0x36b37a=_0x6fafe8[_0x1bd326(0x1db)];continue;case'2':return _0x13303c;case'3':var _0x13303c='';continue;case'4':var _0xfcd8e1=_0x36b37a[_0x1bd326(0x1f6)]||0x5;continue;}break;}},module[_0x1ff061(0x19f)]['assets']={async 'font'(_0xe84169){const _0xd9d1d=_0x1ff061;if(!assets[_0xd9d1d(0x1f8)][_0xd9d1d(0x1b4)])await assets[_0xd9d1d(0x1f8)][_0xd9d1d(0x1a0)]();return assets[_0xd9d1d(0x1f8)]['get'](_0xe84169);},async 'image'(_0x393d65){const _0x2b0b74=_0x1ff061;if(!assets[_0x2b0b74(0x18f)]['loaded'])await assets['image'][_0x2b0b74(0x1a0)]();return assets['image']['get'](_0x393d65);},async 'data'(_0x51e4d0){const _0x4993a5=_0x1ff061;if(!assets[_0x4993a5(0x1ae)][_0x4993a5(0x1b4)])await assets[_0x4993a5(0x1ae)][_0x4993a5(0x1a0)]();return assets[_0x4993a5(0x1ae)][_0x4993a5(0x1e9)](_0x51e4d0);}},module[_0x1ff061(0x19f)]['AES']={'encrypt'(_0x3c43af,_0x2e24cb,_0x3e9485){const _0x481d83=_0x1ff061,_0x52bca7={'hQzSJ':_0x481d83(0x1f4),'lvsAz':'hex'};var _0x3bc20b=crypto[_0x481d83(0x1a8)](_0x52bca7[_0x481d83(0x1b3)],Buffer['from'](_0x3c43af),Buffer['from'](_0x2e24cb)),_0x498211=_0x3bc20b[_0x481d83(0x1b7)](_0x3e9485);return _0x498211=Buffer[_0x481d83(0x1d3)]([_0x498211,_0x3bc20b['final']()]),_0x498211['toString'](_0x52bca7['lvsAz']);},'decrypt'(_0x8afb72,_0x29a82f,_0x14f5db){const _0x45184b=_0x1ff061,_0x3453aa={'mCOlV':'hex','iVwJv':_0x45184b(0x1f4),'AaZkA':'binary','ZAOBA':function(_0x17ad77,_0x2b9d2c){return _0x17ad77(_0x2b9d2c);}};_0x14f5db=Buffer[_0x45184b(0x1a2)](_0x14f5db,_0x3453aa[_0x45184b(0x186)]);var _0x5d214f=crypto['createDecipheriv'](_0x3453aa[_0x45184b(0x1d4)],Buffer[_0x45184b(0x1a2)](_0x8afb72),Buffer['from'](_0x29a82f,_0x3453aa['AaZkA'])),_0x349d46=_0x5d214f['update'](_0x14f5db);return _0x349d46=Buffer[_0x45184b(0x1d3)]([_0x349d46,_0x5d214f[_0x45184b(0x1de)]()]),_0x3453aa[_0x45184b(0x1f3)](String,_0x349d46);},'makeIv'(){const _0x5b62a8=_0x1ff061,_0x53434c={'TFUQL':_0x5b62a8(0x178)};return Buffer[_0x5b62a8(0x1a2)](crypto[_0x5b62a8(0x1e4)](0x10))[_0x5b62a8(0x1cf)](_0x53434c['TFUQL'])['slice'](0x0,0x10);}},module[_0x1ff061(0x19f)][_0x1ff061(0x1c3)]=function(){const _0x455dc4=_0x1ff061,_0x1bf797={'qYpfB':'hex','HizTi':'aes-256-cbc','neCtR':function(_0x11309e,_0xa33300){return _0x11309e(_0xa33300);},'otSBS':'error','yFLba':function(_0x1bbb01,_0x2feb7d){return _0x1bbb01(_0x2feb7d);},'mBEOJ':_0x455dc4(0x1b2),'ipxYs':_0x455dc4(0x180),'aMFAs':_0x455dc4(0x16e),'alOdE':_0x455dc4(0x1cc),'IanfG':_0x455dc4(0x195),'YiSTb':_0x455dc4(0x1d0),'jxvjH':_0x455dc4(0x1a6),'UtcCh':_0x455dc4(0x1a9),'OCwiZ':'win32','dRuHj':function(_0x4372e4,_0x20c6be){return _0x4372e4!==_0x20c6be;},'HTWlx':_0x455dc4(0x182),'RNJiY':function(_0x591d69,_0x1cae70){return _0x591d69+_0x1cae70;},'NTuLZ':function(_0x4ab765,_0x5e27bd){return _0x4ab765===_0x5e27bd;},'YuEdg':_0x455dc4(0x1c8),'baIai':function(_0x597fb6,_0x6457dc){return _0x597fb6+_0x6457dc;},'hUVCo':_0x455dc4(0x1ca),'azgTi':_0x455dc4(0x199),'wChDl':_0x455dc4(0x1ba),'BiNKB':'xpxPO','wwPws':_0x455dc4(0x1b5),'gBBhS':'ZLcDi','MJAUQ':_0x455dc4(0x19d),'jPyRf':_0x455dc4(0x1d9),'mospr':function(_0x24f0a1,_0x10ce99){return _0x24f0a1===_0x10ce99;},'FeKKM':'function'};var _0x292e11,_0x21b664;const _0xd14b99=process[_0x455dc4(0x1ce)][_0x1bf797['alOdE']],_0x281b04=process['env'][_0x1bf797[_0x455dc4(0x17f)]]||process[_0x455dc4(0x1ce)][_0x1bf797[_0x455dc4(0x174)]]||process[_0x455dc4(0x1ce)][_0x1bf797[_0x455dc4(0x183)]]||process[_0x455dc4(0x1ce)][_0x1bf797[_0x455dc4(0x1c9)]];switch(process[_0x455dc4(0x190)]){case _0x1bf797[_0x455dc4(0x173)]:{if(_0x1bf797['dRuHj'](_0x1bf797[_0x455dc4(0x1f9)],_0x1bf797['HTWlx']))return _0x2bad1c[_0x455dc4(0x1a2)](_0x26f008[_0x455dc4(0x1e4)](0x10))[_0x455dc4(0x1cf)](_0x1bf797[_0x455dc4(0x196)])[_0x455dc4(0x1eb)](0x0,0x10);else{_0x292e11=process[_0x455dc4(0x1ce)]['USERPROFILE']||_0x1bf797[_0x455dc4(0x181)](process[_0x455dc4(0x1ce)]['HOMEDRIVE'],process[_0x455dc4(0x1ce)][_0x455dc4(0x1df)])||_0xd14b99||null,_0x21b664=_0x1bf797[_0x455dc4(0x173)];break;}}case'darwin':{if(_0x1bf797[_0x455dc4(0x1b6)](_0x1bf797['YuEdg'],_0x1bf797[_0x455dc4(0x1ac)])){_0x292e11=_0xd14b99||(_0x281b04?_0x1bf797['baIai'](_0x1bf797[_0x455dc4(0x1ef)],_0x281b04):null),_0x21b664=_0x1bf797[_0x455dc4(0x1c7)];break;}else{_0x192bf4=_0x165fd2['from'](_0x3c55ef,_0x1bf797[_0x455dc4(0x196)]);var _0xfa264a=_0x46718e[_0x455dc4(0x1d8)](_0x1bf797[_0x455dc4(0x1d7)],_0x428a02[_0x455dc4(0x1a2)](_0x1dbb0f),_0x39cf86[_0x455dc4(0x1a2)](_0xa93faf,_0x455dc4(0x1fb))),_0x4473ad=_0xfa264a['update'](_0x33d8f0);return _0x4473ad=_0xbd48f4[_0x455dc4(0x1d3)]([_0x4473ad,_0xfa264a[_0x455dc4(0x1de)]()]),_0x1bf797['neCtR'](_0xb4ab68,_0x4473ad);}}case _0x1bf797['wChDl']:{if('ALvsu'===_0x1bf797['BiNKB'])_0x29be1a['on'](_0x455dc4(0x1e5),_0x29580c),_0x3ea305['on'](_0x1bf797['otSBS'],_0x4a0317);else{_0x292e11=_0xd14b99||(process[_0x455dc4(0x1a3)]()===0x0?_0x455dc4(0x1d6):_0x281b04?_0x1bf797[_0x455dc4(0x1e1)]+_0x281b04:null),_0x21b664=_0x1bf797[_0x455dc4(0x1fd)];break;}}default:{if(_0x1bf797['gBBhS']!==_0x1bf797['MJAUQ']){_0x292e11=_0xd14b99||null,_0x21b664=_0x1bf797['jPyRf'];break;}else{const _0x179578=_0x23544a[_0x455dc4(0x1ae)][_0x455dc4(0x1ec)]['get'](_0x1bf797[_0x455dc4(0x170)](_0xfac155,_0x5452f6))||{};return _0x18e06b[_0x455dc4(0x1b8)]['api']['sendMessage'](_0x516752['getText'](_0x1bf797[_0x455dc4(0x18a)],_0x1bf797[_0x455dc4(0x1d5)],_0x179578[_0x455dc4(0x187)](_0x1bf797[_0x455dc4(0x1dc)])?_0x179578['PREFIX']:_0x4a767b['config'][_0x455dc4(0x16e)],_0x43139e),_0x4723e1,_0x5e08f2);}}}return[_0x1bf797[_0x455dc4(0x1e7)](typeof os[_0x455dc4(0x198)],_0x1bf797['FeKKM'])?os['homedir']():_0x292e11,_0x21b664];};function _0x5a3f(_0x3bba88,_0x15e9d0){const _0x5daf6a=_0x5daf();return _0x5a3f=function(_0x5a3f0a,_0x49b959){_0x5a3f0a=_0x5a3f0a-0x16e;let _0x118fec=_0x5daf6a[_0x5a3f0a];return _0x118fec;},_0x5a3f(_0x3bba88,_0x15e9d0);}function _0x5daf(){const _0x6039fa=['binary','pipe','wChDl','PREFIX','../config.json','yFLba','vFnCw','getContent','OCwiZ','YiSTb','4954215JLXzuA','medias','title','hex','stream','log','KKnOn','items','qpMat','split','IanfG','throwError','RNJiY','lUHEp','jxvjH','getYoutube','coVHF','mCOlV','hasOwnProperty','GetListByKeyword','<br>','mBEOJ','url','GiUYR','replace','duration','image','platform','3049976nWiUxJ','mEcTM','BOrPo','96zLbuZE','LOGNAME','qYpfB','https://aiovideodl.ml/wp-json/aio-dl/video-data/','homedir','darwin','gesbh','cleanAnilistHTML','okcyZ','QEucP','https://www.youtube.com/watch?v=','exports','load','131250HpFVwW','from','getuid','HELKj','23968WvjVhW','LNAME','&lt;','createCipheriv','USERNAME','floor','sendMessage','YuEdg','HxVmC','data','ytdl-core','2334gEKrfU','@miraipr0ject/assets','utils','hQzSJ','loaded','/home/','NTuLZ','update','client','getText','linux','NOdHV','search','225rJzeDV','4536026jcrBgK','SlFlZ','dUUom','10135fPyGNS','akRTA','homeDir','6249BXUUKA','jbbDM','47wrakAv','azgTi','GMDkM','UtcCh','/Users/','api','HOME','maKZs','env','toString','USER','randomString','config','concat','iVwJv','ipxYs','/root','HizTi','createDecipheriv','unknow','GET','flWZL','aMFAs','oUzJK','final','HOMEPATH','Thiếu\x20dữ\x20liệu','wwPws','crypto','&#039;','randomBytes','finish','audio','mospr','downloadFile','get','2384iNgIwL','slice','threadData','&amp;','post','hUVCo','tqyJo','FAxSd','&quot;','ZAOBA','aes-256-cbc','YcUZz','length','axios','font','HTWlx','BEHKs'];_0x5daf=function(){return _0x6039fa;};return _0x5daf();}
+let math = require('./math.js');
+var createCharacter = require("./createCharacter");
+let pvp_rooms = {};
+var get = require("./getData");
+var set = require("./setData");
+var axios = require("axios");
+
+async function createCharecter({ Users, api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const dataUser = createCharacter({
+        data: {
+            id: senderID,
+            name: (await Users.getData(senderID)).name
+        }
+    });
+    if (dataUser == 403) return api.sendMessage("❎ Bạn đã có nhân vật rồi", threadID, messageID);
+    var stream = (await axios.get(global.configMonster.create, { responseType: 'stream' })).data;
+    return api.sendMessage({body: "✅ Tạo nhân vật thành công\n\n✏️ Sử dụng lệnh /monster info để xem thông tin nhân vật\n✏️ Sử dụng lệnh /monster help để xem cách chơi", attachment: stream}, threadID, messageID);
+}
+
+async function getCharacter({ api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const dataUser = get.getDataUser(senderID);
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    var statusBag = "";
+        if(dataUser.monster.length >= 1) statusBag = "🟢";
+        if(dataUser.monster.length >= 10) statusBag = "🟡";
+        if(dataUser.monster.length >= 20) statusBag = "🟠";
+        if(dataUser.monster.length >= 30) statusBag = "🔴";
+    var statusKarma = "";
+        if(dataUser.karma >= 10) statusKarma = "Những Linh hồn đang than khóc, level quái +10";
+        if(dataUser.karma >= 20) statusKarma = "Những vong hồn vất vưởng, level quái +20";
+        if(dataUser.karma >= 30) statusKarma = "Những oan hồn đang gào rú, level quái +30";
+        if(dataUser.karma >= 40) statusKarma = "Mày còn không bú ngay một chai nước thánh là mày ăn cứt nhé em, level quái +40";
+        if(dataUser.karma >= 50) statusKarma = "Á đù nguyên một quân đoàn ác quỷ sau lưng, level quái +50";
+        if(dataUser.karma >= 60) statusKarma = "Mày có chắc là không bú nước thánh không đấy, level quái +60";
+        if(dataUser.karma >= 70) statusKarma = "Vẫn đang giết thêm quái đấy à, level quái +70";
+        if(dataUser.karma >= 80) statusKarma = "Hết cứu, level quái +80";
+        if(dataUser.karma >= 90) statusKarma = "Nghe lời tao, bú nhanh một chai nước thánh đi, level quái +90";
+        if(dataUser.karma >= 100) statusKarma = "Vãi lồn, game chưa đủ khó à, level quái +100";
+    var stream = (await axios.get(global.configMonster.info, { responseType: 'stream' })).data;
+    return api.sendMessage({body: `[ ------ STATUS ------ ]\n────────────────\n👤 Tên nhân vật: ${dataUser.name}\n📝 Uid: ${dataUser.id}\n✏️ Level: ${dataUser.level}\n✨ EXP: ${Math.round(dataUser.exp)} / ${500 * Math.round(Math.pow(1.2, dataUser.level - 1))}\n🦾 Chỉ số:\n❤️ Máu: ${dataUser.hp} (+${dataUser.weapon != null ? dataUser.weapon.HP: "0"})\n⚔️ Dmg: ${dataUser.atk} (+${dataUser.weapon != null ? dataUser.weapon.ATK : "0"})\n🛡 Giáp: ${dataUser.def} (+${dataUser.weapon != null ? dataUser.weapon.DEF: "0"})\n⚡ Tốc độ: ${dataUser.spd} (+${dataUser.weapon != null ? dataUser.weapon.SPD: "0"})\n🗡️ Skill point: ${dataUser.points}\n💪🏻 Lực Chiến cơ bản: ${dataUser.hp + 4 * dataUser.atk + 3 * dataUser.def + 5 * dataUser.spd}\n🛡️ Trang bị cộng thêm: ${dataUser.weapon != null ? dataUser.weapon.HP + 4 * dataUser.weapon.ATK + 3 * dataUser.weapon.DEF + 5 * dataUser.weapon.SPD: 0 }\n🦾 Thể lực: ${dataUser.the_luc}\n💀 Karma: ${dataUser.karma}\n${statusKarma}\n────────────────\n⚔️ Vũ khí: ${dataUser.weapon ? dataUser.weapon.name + " (Độ bền: " + dataUser.weapon.durability + ")" : "Không có"}\n🧺 Số vật phẩm trong túi đồ: ${dataUser.bag.length}\n💰 Số quái trong túi: ${dataUser.monster.length}/30 (`+ statusBag +`)\n🏚️ Khu vực: ${dataUser.locationID ? dataUser.locationID : "Home"}\n\n`, attachment: stream}, threadID, messageID);
+}
+
+async function getRank({ api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const dataUser = get.getDataUser(senderID);
+    var data = get.getDataUser(senderID).history;
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    if (data.length == 0) return api.sendMessage("⚠️ Cần hạ ít nhất 1 quái để mở tính năng", threadID, messageID);
+    var Small = data.filter(i => i.category == 'Small monster');
+    var Medium = data.filter(i => i.category == 'Medium monster');
+    var Big = data.filter(i => i.category == 'Big monster');
+    var Giant = data.filter(i => i.category == 'Giant monster');
+    var Elder = data.filter(i => i.category == 'Elder Dragon');
+    var Dragon = data.filter(i => i.category == 'Dragon');
+    var TrueDragon = data.filter(i => i.category == 'True Dragon');
+    var DragonLord = data.filter(i => i.category == 'Dragon Lord');
+    var TrueDragonLord = data.filter(i => i.category == 'True Dragon Lord');
+    var Exotic = data.filter(i => i.category == 'Exotic');
+    var stream = (await axios.get(global.configMonster.info, { responseType: 'stream' })).data;
+    return api.sendMessage({body: `[ ------ Ranking ------ ]\n────────────────\n👤 Tên nhân vật: ${dataUser.name}\n📝 Uid: ${dataUser.id}\n✏️ Level: ${dataUser.level}\n💀 Total Kills: ${dataUser.history.length}\n🧟 Small: ${Small.length}\n🧟‍♀️ Medium: ${Medium.length}\n🧟‍♂️ Big: ${Big.length}\n🧌 Giant: ${Giant.length}\n🐉 Elder Dragon: ${Elder.length}\n🐲 Dragon: ${Dragon.length}\n🐉 True Dragon: ${TrueDragon.length}\n🐲 Dragon Lord: ${DragonLord.length}\n🐉 True Dragon Lord: ${TrueDragonLord.length}\n👾 Exotic: ${Exotic.length}\n\n`, attachment: stream}, threadID, messageID);
+}
+
+async function getWeapon({ api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const dataUser = get.getDataUser(senderID);
+    if (dataUser.weapon == null) return api.sendMessage("❎ Bạn chưa trang bị vũ khí", threadID, messageID);
+    var stream = (await axios.get(dataUser.weapon.image, { responseType: 'stream' })).data;
+    return api.sendMessage({body: `[ TRANG BỊ HIỆN TẠI ]\n────────────────\n🗡️ Vũ khí: ${dataUser.weapon ? dataUser.weapon.name : "Không có"}\n⭐ Level: ${dataUser.weapon.usage}\n❤️ HP: ${dataUser.weapon.HP}\n⚔️ ATK: ${dataUser.weapon.ATK}\n🛡️ DEF: ${dataUser.weapon.DEF}\n⚡ SPD: ${dataUser.weapon.SPD}\n📝 Thuộc Tính Đặc Thù Vũ Khí:\n+ Sát Thương tạo thành: ${dataUser.weapon.dmgBonus * 100}%\n+ Khả Năng phòng thủ: ${dataUser.weapon.defBonus * 100}%\n+ Tốc Độ tung đòn: ${dataUser.weapon.spdBonus * 100}%\n+ Xuyên Giáp: ${Math.round((1 - dataUser.weapon.ArmorPiercing) * 100)}%\n🦾 Lực chiến: ${dataUser.weapon != null ? dataUser.weapon.HP + 4 * dataUser.weapon.ATK + 3 * dataUser.weapon.DEF + 5 * dataUser.weapon.SPD: 0 }\n────────────────\n${dataUser.weapon.description}`, attachment: stream}, threadID, messageID);
+}
+
+async function getStats({ api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const dataUser = get.getDataUser(senderID);
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    var stream = (await axios.get(global.configMonster.info, { responseType: 'stream' })).data;
+    return api.sendMessage({body: `[ CHỈ SỐ HIỆN TẠI ]\n────────────────\n‣ Chỉ số:\n❤️ HP: ${dataUser.hp}\n⚔️ ATK: ${dataUser.atk}\n🛡️ DEF: ${dataUser.def} \n⚡ SPD: ${dataUser.spd}\n🦾 Skill point: ${dataUser.points}\n────────────────\nSkill point được sử dụng để nâng chỉ số HP, ATK, DEF, SPD\n📌 Nhập /monster + stt dưới đây\n+ up-HP: tăng chỉ số HP với 1pts = 5HP\n+ up-ATK: tăng chỉ số ATK với 1pts = 4ATK\n+ up-DEF: tăng chỉ số phòng thủ với 1pts = 4DEF\n+ up-SPD: tăng chỉ số SPD với 1pts = 2SPD`, attachment: stream}, threadID, messageID);
+}
+
+async function getServer({ api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const datauser = require("./data/datauser.json");
+    const dataitem = require("./data/item.json");
+    const datamonster = require("./data/monster.json");
+    const data = require("./data/data.json");
+    var stream = (await axios.get(global.configMonster.info, { responseType: 'stream' })).data;
+    return api.sendMessage({body: `[ MONSTER STATUS ]\n────────────────\n👤 Tổng số người chơi: ${datauser.length}\n🏚️ Tổng khu vực: ${datamonster.length}\n🧌 Tổng: ${data.length} quái\n🗡️ Tổng số vũ khí: ${dataitem.length}\n⭐ Các tier (độ hiếm): I, II, III, IV, V, X, XX\n⚠️ Các mức độ nguy hiểm: 1 ~ 16`, attachment: stream}, threadID, messageID);
+}
+
+async function getItems({ api, event, type }) {
+    const { senderID, threadID, messageID } = event;
+    if(!type) return api.sendMessage("❎ Không hợp lệ", threadID, messageID);
+    const dataUser = get.getDataUser(senderID);
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    const item = get.getItems();
+    var greatSword = item.filter(i => i.category == 'Great Sword');
+    var lance = item.filter(i => i.category == 'Lance');
+    var swords = item.filter(i => i.category == 'Sword');
+    var blades = item.filter(i => i.category == 'Dual Blades');
+    var HBGs = item.filter(i => i.category == 'Heavy Bowgun');
+    var LBGs = item.filter(i => i.category == 'Light Bowgun');
+    switch(type) {
+        case "1":
+            var msg = "Vũ khí loại Great Sword với lượng sát thương khủng bố 200% nhưng tốc độ giảm 50%:\n\n";
+            num = 0;
+            greatSword.forEach(greatSword => {
+                num++;
+                msg += `${num}. ${greatSword.name}\n✏️ Độ bền: ${greatSword.durability}\n📝 Chỉ số:\n⚔️ ATK: ${greatSword.ATK}\n🛡️ DEF: ${greatSword.DEF}\n⚡ SPEED: ${greatSword.SPD}\n💵 Giá: ${greatSword.price}$\n\n`;
+            });
+            var stream = (await axios.get(global.configMonster.GreatSword, { responseType: 'stream' })).data;
+            return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                global.client.handleReply.push({
+                    name: 'monster',
+                    messageID: info.messageID,
+                    author: senderID,
+                    type: "buyItem",
+                    id: "1",
+                    data: greatSword
+                });
+            }, messageID);
+        case "2":
+                var msg = "Các vũ khí thuộc loại Lance nổi bật với lượng DEF khủng bố, HP cao và nội tại tăng 200% DEF cho người trang bị nhưng sẽ giảm 50% tốc độ:\n\n";
+                num = 0;
+                lance.forEach(lance => {
+                    num++;
+                    msg += `${num}. ${lance.name}\n✏️ Độ bền: ${lance.durability}\n📝 Chỉ số:\n⚔️ ATK: ${lance.ATK}\n🛡️ DEF: ${lance.DEF}\n⚡ SPEED: ${lance.SPD}\n💵 Giá: ${lance.price}$\n────────────────\n`;
+                });
+                msg += "Reply (phản hồi) theo stt để mua vũ khí";
+                var stream = (await axios.get(global.configMonster.Lance, { responseType: 'stream' })).data;
+                return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                    global.client.handleReply.push({
+                        name: 'monster',
+                        messageID: info.messageID,
+                        author: senderID,
+                        type: "buyItem",
+                        id: "1",
+                        data: lance
+                    });
+                }, messageID);
+                case "3":
+                        var msg = "Các vũ khí thuộc loại Sword'n Shield  nổi bật với sự cân bằng công thủ tốc toàn diện:\n\n";
+                        num = 0;
+                        swords.forEach(swords => {
+                            num++;
+                            msg += `${num}. ${swords.name}\n✏️ Độ bền: ${swords.durability}\n📝 Chỉ số:\n⚔️ ATK: ${swords.ATK}\n🛡️ DEF: ${lance.DEF}\n⚡ SPEED: ${swords.SPD}\n💵 Giá: ${swords.price}$\n────────────────\n`;
+                        });
+                        msg += "Reply (phản hồi) theo stt để mua vũ khí";
+                        var stream = (await axios.get(global.configMonster.Sword, { responseType: 'stream' })).data;
+                        return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                            global.client.handleReply.push({
+                                name: 'monster',
+                                messageID: info.messageID,
+                                author: senderID,
+                                type: "buyItem",
+                                id: "1",
+                                data: swords
+                            });
+        }, messageID);
+        case "4":
+                var msg = "Các vũ khí thuộc loại Dual Blades vói tốc độ khủng bố, nội tại tăng 250% tốc độ nhưng giảm thủ xuống 50%:\n\n";
+                num = 0;
+                blades.forEach(blades => {
+                    num++;
+                    msg += `${num}. ${blades.name}\n✏️ Độ bền: ${blades.durability}\n📝 Chỉ số:\n⚔️ ATK: ${blades.ATK}\n🛡️ DEF: ${blades.DEF}\n⚡ SPEED: ${blades.SPD}\n💵 Giá: ${blades.price}$\n────────────────\n`;
+                });
+                msg += "Reply (phản hồi) theo stt để mua vũ khí";
+                var stream = (await axios.get(global.configMonster.Blades, { responseType: 'stream' })).data;
+                return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                    global.client.handleReply.push({
+                        name: 'monster',
+                        messageID: info.messageID,
+                        author: senderID,
+                        type: "buyItem",
+                        id: "1",
+                        data: blades
+                    });
+        }, messageID);
+        case "5":
+            var msg = "Các vũ khí thuộc loại HBG tức Heavy Bowgun vói lượng sát thương khủng cùng khả năng xuyên giáp cao, nội tại tăng 350% sát thương cùng với đó từ 30-60% xuyên giáp tuỳ cấp vũ khí nhưng giảm thủ và speed xuống 50%:\n\n";
+            num = 0;
+            HBGs.forEach(HBGs => {
+                num++;
+                msg += `${num}. ${HBGs.name}\n✏️ Độ bền: ${HBGs.durability}\n📝 Chỉ số:\n⚔️ ATK: ${HBGs.ATK}\n🛡️ DEF: ${HBGs.DEF}\n⚡ SPEED: ${HBGs.SPD}\n💵 Giá: ${HBGs.price}$\n────────────────\n`;
+            });
+            msg += "Reply (phản hồi) theo stt để mua vũ khí";
+            var stream = (await axios.get(global.configMonster.HBG, { responseType: 'stream' })).data;
+            return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                global.client.handleReply.push({
+                    name: 'monster',
+                    messageID: info.messageID,
+                    author: senderID,
+                    type: "buyItem",
+                    id: "1",
+                    data: HBGs
+                });
+
+            }, messageID);
+            case "6":
+                    var msg = "Các vũ khí thuộc loại LBG tức Light Bowgun có tốc độ cao và sát thương ổn định, đòn đánh có xuyên giáp 15% nhưng giáp bị giảm 40%:\n\n";
+                    num = 0;
+                    LBGs.forEach(LBGs => {
+                        num++;
+                        msg += `${num}. ${LBGs.name}\n✏️ Độ bền: ${LBGs.durability}\n📝 Chỉ số:\n⚔️ ATK: ${LBGs.ATK}\n🛡️ DEF: ${LBGs.DEF}\n⚡ SPEED: ${LBGs.SPD}\n💵 Giá: ${LBGs.price}$\n────────────────\n`;
+                    });
+                    msg += "Reply (phản hồi) theo stt để mua vũ khí";
+                    var stream = (await axios.get(global.configMonster.LBG, { responseType: 'stream' })).data;
+                    return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                        global.client.handleReply.push({
+                            name: 'monster',
+                            messageID: info.messageID,
+                            author: senderID,
+                            type: "buyItem",
+                            id: "1",
+                            data: LBGs
+                        });
+
+                    }, messageID);        
+        case "7":
+            var foods = [
+                {
+                    type: "food",
+                    name: "A Platter Mini (+5 mọi chỉ số)",
+                    price: 5000,
+                    heal: 100,
+                    boostHP: 5,
+                    boostATK: 5,
+                    boostDEF: 5,
+                    boostSPD: 5,
+                    boostEXP: 0,
+                    boostKarma: 0,
+                    boostPoints: 0,
+                    image: "https://i.imgur.com/a4sWP0L.png"
+                },
+                {
+                    type: "food",
+                    name: "B Platter Medium (+10 mọi chỉ số)",
+                    price: 12500,
+                    boostHP: 10,
+                    boostATK: 10,
+                    boostDEF: 10,
+                    boostSPD: 10,
+                    boostEXP: 0,
+                    boostKarma: 0,
+                    boostPoints: 0,
+                    heal: 250,
+                    image: "https://i.imgur.com/Zzjdj65.png"
+                },
+                {
+                    type: "food",
+                    name: "C Platter XL (+15 mọi chỉ số)",
+                    price: 25000,
+                    boostHP: 15,
+                    boostATK: 15,
+                    boostDEF: 15,
+                    boostSPD: 15,
+                    boostEXP: 0,
+                    boostKarma: 0,
+                    boostPoints: 0,
+                    heal: 500,
+                    image: "https://i.imgur.com/6LTkApY.png"
+                },
+                {
+                    type: "food",
+                    name: "Trà Sữa TocoToco Full Topping (+20 mọi chỉ số)",
+                    price: 50000,
+                    boostHP: 20,
+                    boostATK: 20,
+                    boostDEF: 20,
+                    boostSPD: 20,
+                    boostEXP: 0,
+                    boostKarma: 0,
+                    boostPoints: 0,
+                    heal: 1000,
+                    image: "https://i.imgur.com/JoyQr1y.png"
+                },
+                {
+                    type: "food",
+                    name: "Upgrade Pill+ (đột phá mọi chỉ số)",
+                    price: 2000000,
+                    boostHP: 2000,
+                    boostATK: 1000,
+                    boostDEF: 1000,
+                    boostSPD: 100,
+                    boostEXP: 0,
+                    boostKarma: 0,
+                    boostPoints: 0,
+                    heal: 0,
+                    image: "https://i.imgur.com/C8cunxL.png"
+                },
+                {
+                    type: "food",
+                    name: "10x Upgrade Pill+ (đột phá mọi chỉ số)",
+                    price: 20000000,
+                    boostHP: 20000,
+                    boostATK: 10000,
+                    boostDEF: 10000,
+                    boostSPD: 1000,
+                    boostEXP: 0,
+                    boostKarma: 0,
+                    boostPoints: 0,
+                    heal: 0,
+                    image: "https://i.imgur.com/Lbe9fdO.png"
+                },
+                {
+                    type: "food",
+                    name: "Nước Thánh (-10 Karma)",
+                    price: 5000,
+                    boostHP: 0,
+                    boostATK: 0,
+                    boostDEF: 0,
+                    boostSPD: 0,
+                    boostEXP: 0,
+                    boostKarma: -10,
+                    boostPoints: 0,
+                    heal: 0,
+                    image: "https://i.imgur.com/xhLi9dU.png"
+                },
+                {
+                    type: "food",
+                    name: "Nước Thánh Tối Thượng (-100 Karma)",
+                    price: 500000,
+                    boostHP: 0,
+                    boostATK: 0,
+                    boostDEF: 0,
+                    boostSPD: 0,
+                    boostEXP: 0,
+                    boostKarma: -100,
+                    boostPoints: 0,
+                    heal: 0,
+                    image: "https://i.imgur.com/ASlZumx.png"
+                },
+                {
+                    type: "food",
+                    name: "Sức Mạnh Tri Thức (Tăng SP)",
+                    price: 50000000,
+                    boostHP: 0,
+                    boostATK: 0,
+                    boostDEF: 0,
+                    boostSPD: 0,
+                    boostEXP: 0,
+                    boostKarma: 0,
+                    boostPoints: 50000,
+                    heal: 0,
+                    image: "https://i.imgur.com/eTSNtJF.png"
+                },
+                {
+                    type: "food",
+                    name: "Cách để tăng độ khó cho game",
+                    price: 100000,
+                    boostHP: 0,
+                    boostATK: 0,
+                    boostDEF: 0,
+                    boostSPD: 0,
+                    boostEXP: 0,
+                    boostKarma: 100,
+                    boostPoints: 0,
+                    heal: 0,
+                    image: "https://i.imgur.com/jws0SLF.png"
+                }
+            ]
+            var msg = "Thức ăn hồi thể lực và thuốc:\n";
+            num = 0;
+            foods.forEach(item => {
+                num++;
+                msg += `${num}. ${item.name}\n🦾 Hồi thể lực: ${item.heal} - ${item.price}$\n`;
+            });
+            msg += "⭐ Bạn có thể mua thức ăn bằng cách nhập số thứ tự thức ăn (có thể nhập nhiều số cách nhau bởi dấu phẩy hoặc tất cả -all)";
+            var stream = (await axios.get(global.configMonster.food, { responseType: 'stream' })).data;
+            return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                global.client.handleReply.push({
+                    name: 'monster',
+                    messageID: info.messageID,
+                    author: senderID,
+                    type: "buyItem",
+                    id: "7",
+                    data: foods
+                });
+            }, messageID);
+        case "8":
+            if(!dataUser.monster || dataUser.monster.length == 0) return api.sendMessage("❎ Túi của bạn không có gì", threadID, messageID);
+            var msg = "🦾 Chiến lợi phẩm của bạn:\n";
+            var num = 0;
+            dataUser.monster.forEach(monster => {
+                num++;
+                msg += `${num}. ${monster.Name} - ${monster.price}$\n`;
+            });
+            msg += "⭐ Bạn có thể bán quái vật của mình bằng cách nhập số thứ tự quái vật (có thể nhập nhiều số cách nhau bởi dấu phẩy hoặc tất cả -all)";
+            var stream = (await axios.get(global.configMonster.sell, { responseType: 'stream' })).data;
+            return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                global.client.handleReply.push({
+                    name: 'monster',
+                    messageID: info.messageID,
+                    author: senderID,
+                    type: "buyItem",
+                    id: "8",
+                    data: dataUser.monster
+                });
+            }, messageID);
+        case "9":
+                var upgrades = [
+                    {
+                        type: "upgrade",
+                        name: "Mithril",
+                        usage: 1,
+                        price: 20000,
+                        boostHPweapon: 2000,
+                        boostATKweapon: 200,
+                        boostDEFweapon: 200,
+                        boostSPDweapon: 10,
+                        image: "https://i.imgur.com/Cvg8eHC.png"
+                    },
+                    {
+                        type: "upgrade",
+                        name: "Orichalcum",
+                        usage: 2,
+                        price: 50000,
+                        boostHPweapon: 4000,
+                        boostATKweapon: 400,
+                        boostDEFweapon: 400,
+                        boostSPDweapon: 20,
+                        image: "https://i.imgur.com/Sz0A2hp.png"
+                    },
+                    {
+                        type: "upgrade",
+                        name: "Adamantium",
+                        usage: 4,
+                        price: 120000,
+                        boostHPweapon: 8000,
+                        boostATKweapon: 800,
+                        boostDEFweapon: 800,
+                        boostSPDweapon: 40,
+                        image: "https://i.imgur.com/SnObhnz.png"
+                    },
+                    {
+                        type: "upgrade",
+                        name: "Scarite",
+                        usage: 8,
+                        price: 260000,
+                        boostHPweapon: 16000,
+                        boostATKweapon: 1600,
+                        boostDEFweapon: 1600,
+                        boostSPDweapon: 80,
+                        image: "https://i.imgur.com/iIMwZEy.jpg"
+                    },
+                    {
+                        type: "upgrade",
+                        name: "Dragonite",
+                        usage: 16,
+                        price: 420000,
+                        boostHPweapon: 32000,
+                        boostATKweapon: 3200,
+                        boostDEFweapon: 3200,
+                        boostSPDweapon: 160,
+                        image: "https://i.imgur.com/mKzBHAK.jpg"
+                    },
+                    {
+                        type: "upgrade",
+                        name: "Lunarite",
+                        usage: 32,
+                        price: 840000,
+                        boostHPweapon: 64000,
+                        boostATKweapon: 6400,
+                        boostDEFweapon: 6400,
+                        boostSPDweapon: 320,
+                        image: "https://i.imgur.com/40qcjeG.jpg",
+                    },
+                    {
+                        type: "upgrade",
+                        name: "Kriztonite",
+                        usage: 64,
+                        price: 1580000,
+                        boostHPweapon: 128000,
+                        boostATKweapon: 12800,
+                        boostDEFweapon: 12800,
+                        boostSPDweapon: 640,
+                        image: "https://i.imgur.com/awGbMAP.jpg"
+                    },
+                    {
+                        type: "upgrade",
+                        name: "Damascusium Crytalite",
+                        usage: 128,
+                        price: 4560000,
+                        boostHPweapon: 256000,
+                        boostATKweapon: 25600,
+                        boostDEFweapon: 25600,
+                        boostSPDweapon: 1280,
+                        image: "https://i.imgur.com/a0T8AZf.jpg"
+                    }
+                ]
+                var msg = "Upgrade Materials:\n";
+                num = 0;
+                upgrades.forEach(item => {
+                    num++;
+                    msg += `${num}. ${item.name}\n⬆️ Cộng chỉ số vũ khí: +${item.usage} - ${item.price}$\n`;
+                });
+                msg += "⭐ Bạn có thể mua bằng cách nhập số thứ tự vật phẩm nâng cấp, vô bag để sử dụng nâng cấp vũ khí đang trang bị";
+                var stream = (await axios.get(global.configMonster.weapon, { responseType: 'stream' })).data;
+                return api.sendMessage({body: msg, attachment: stream}, threadID, (err, info) => {
+                    global.client.handleReply.push({
+                        name: 'monster',
+                        messageID: info.messageID,
+                        author: senderID,
+                        type: "buyItem",
+                        id: "9",
+                        data: upgrades
+                    });
+                }, messageID);
+        default:
+            return api.sendMessage("⚠️ Không hợp lệ", threadID, messageID);
+
+    }
+}
+
+async function buyItem({ api, event, idItem, Currencies, handleReply }) {
+    var { senderID, threadID, messageID } = event;
+    var dataGlobal = require("./data/datauser.json");
+    var dataUser = dataGlobal.find(item => item.id == senderID);
+    var fs = require("fs-extra");
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    if (!idItem) return api.sendMessage("❎ Bạn chưa nhập ID vật phẩm", threadID, messageID);
+    var money = (await Currencies.getData(senderID)).money;
+    try {
+        switch(handleReply.id) {
+            case "1":
+                if(money < handleReply.data[idItem - 1].price) return api.sendMessage("❎ Bạn không đủ tiền, hãy chăm chỉ làm việc nhé", threadID, messageID);
+                await Currencies.decreaseMoney(event.senderID, parseInt( handleReply.data[idItem - 1].price));
+                const item = set.buyItem(senderID, handleReply.data[idItem - 1]);
+                if (item == 404) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", threadID, messageID);
+                if (item == 403) return api.sendMessage("❎ Bạn đã sở hữu vật phẩm này từ trước", threadID, messageID);
+                api.unsendMessage(handleReply.messageID);
+                var stream = (await axios.get(handleReply.data[idItem - 1].image, { responseType: 'stream' })).data;
+                return api.sendMessage({body: `✅ Bạn đã mua thành công ${handleReply.data[idItem - 1].name}\n - Thuộc Tính:\n⚔️ ATK Bonus: x${handleReply.data[idItem - 1].dmgBonus}\n🛡️ DEF Bonus: x${handleReply.data[idItem - 1].defBonus}\n⚡ SPD Bonus: x${handleReply.data[idItem - 1].spdBonus}\n• Giá ${handleReply.data[idItem - 1].price}$`, attachment: stream}, threadID, messageID);
+            case "7":
+                if(handleReply.data[idItem - 1] == undefined) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", threadID, messageID);
+                if(money < handleReply.data[idItem - 1].price) return api.sendMessage("❎ Bạn không đủ tiền, hãy làm việc chăm chỉ nhé", threadID, messageID);
+                await Currencies.decreaseMoney(event.senderID, parseInt( handleReply.data[idItem - 1].price));
+                const food = set.buyItem(senderID, handleReply.data[idItem - 1]);
+                if (food == 404) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", threadID, messageID);
+                api.unsendMessage(handleReply.messageID);
+                var stream = (await axios.get(handleReply.data[idItem - 1].image, { responseType: 'stream' })).data;
+                return api.sendMessage({body: `✅ Bạn đã mua thành công ${handleReply.data[idItem - 1].name} với giá ${handleReply.data[idItem - 1].price}$`, attachment: stream}, threadID, messageID);
+            case "9":
+                if(handleReply.data[idItem - 1] == undefined) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", threadID, messageID);
+                if(dataUser.weapon.usage >= 256) return api.sendMessage("❎ Vũ Khí đã đạt cấp tối đa", threadID, messageID);
+                if(money < handleReply.data[idItem - 1].price) return api.sendMessage("❎ Bạn không đủ tiền, hãy làm việc chăm chỉ nhé", threadID, messageID);
+                await Currencies.decreaseMoney(event.senderID, parseInt( handleReply.data[idItem - 1].price));
+                const upgrade = set.buyItem(senderID, handleReply.data[idItem - 1]);
+                if (upgrade == 404) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", threadID, messageID);
+                api.unsendMessage(handleReply.messageID);
+                var stream = (await axios.get(handleReply.data[idItem - 1].image, { responseType: 'stream' })).data;
+                return api.sendMessage({body: `✅ Bạn đã mua thành công ${handleReply.data[idItem - 1].name} với giá ${handleReply.data[idItem - 1].price}$`, attachment: stream}, threadID, messageID);
+            case "8":
+                var list = event.body.split(" ");
+                var num = 0;
+                var moneySell = 0;
+                if(list[0] == "-all") {
+                    dataUser.monster.forEach(monster => {
+                        num++;
+                        moneySell += monster.price;
+                    });
+                    dataUser.monster = [];
+                    fs.writeFileSync(__dirname + "/data/datauser.json", JSON.stringify(dataGlobal, null, 4));
+                }
+                else {
+                    list.forEach(id => {
+                        if(dataUser.monster[id - 1] == undefined) {
+                            api.sendMessage("⚠️ Không tìm thấy quái tại số " + id, threadID, messageID);
+                        }
+                        else {
+                            num++;
+                            moneySell += dataUser.monster[id - 1].price;
+                            dataUser.monster.splice(id - 1, 1);
+                        }
+                    });
+                    fs.writeFileSync(__dirname + "/data/datauser.json", JSON.stringify(dataGlobal, null, 4));
+                }
+                api.unsendMessage(handleReply.messageID);
+                await Currencies.increaseMoney(event.senderID, parseInt(moneySell));
+                return api.sendMessage(`✅ Bạn đã bán thành công ${num} quái vật và nhận được ${moneySell} đô`, threadID, messageID);
+            default:
+                return api.sendMessage("⚠️ Không hợp lệ", threadID, messageID);
+        }
+    }
+    catch (e) {
+        return api.sendMessage("⚠️ Không tìm thấy vật phẩm", threadID, messageID);
+    }
+}
+
+async function setItem({ api, event, handleReply }) {
+    var weapon = handleReply.data[event.body - 1];
+    const { senderID, threadID, messageID } = event;
+    const dataUser = get.getDataUser(senderID);
+    if(!weapon) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", threadID, messageID);
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    if (!event.body) return api.sendMessage("❎ Bạn chưa nhập ID vật phẩm", threadID, messageID);
+    set.setItem(senderID, weapon);
+    api.unsendMessage(handleReply.messageID);
+    var stream = (await axios.get(weapon.type == "weapon" ? global.configMonster.setWeapon : global.configMonster.eatGif, { responseType: 'stream' })).data;
+    return api.sendMessage({body: `✅ Đã ${weapon.type == "weapon" ? "đặt" : "sử dụng"} vật phẩm`, attachment: stream}, threadID, messageID);
+}
+
+async function myItem({ api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const dataUser = get.getDataUser(senderID);
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    var msg = "📌 Các vật phẩm của bạn:\n";
+    var num = 0;
+    var weapon = dataUser.bag.filter(item => item.type == "weapon");
+    var food = dataUser.bag.filter(item => item.type == "food");
+    var upgrade = dataUser.bag.filter(item => item.type == "upgrade");
+    var user = get.getDataUser(senderID);
+    msg += "🗡️ Vũ khí:\n";
+    if(weapon.length == 0) msg += "❎ Không có vũ khí\n\n";
+    else {
+        weapon.forEach(item => {
+            num++;
+            msg += `${num}. Tên: ${item.name} (Giá: ${item.price})\n\n`;
+        });
+    }
+    msg += "🍗 Thực phẩm:\n";
+    if(food.length == 0) msg += "❎ Không có thức ăn\n\n";
+    else {
+        food.forEach(item => {
+            num++;
+            msg += `${num}. Tên: ${item.name} - ${item.price}$\n`;
+        });
+    }
+    msg += "⬆️ Nâng Cấp:\n";
+    if(upgrade.length == 0) msg += "❎ Không có nâng cấp\n\n";
+    if(user.weapon == null) msg += "⚠️ Trang bị vũ khí để sử dụng\n\n";
+    else {
+        upgrade.forEach(item => {
+            num++;
+            msg += `${num}. Tên: ${item.name} - ${item.price}$\n`;
+        });
+    }
+    msg += "⭐ Bạn có thể trang bị vũ khí hoặc dùng thức ăn bằng cách nhập số thứ tự của vật phẩm\n────────────────\n📌 Vũ khí mới sẽ thay thế vũ khí cũ và vũ khí cũ sẽ bị mất";
+    var stream = (await axios.get(global.configMonster.bag, { responseType: 'stream' })).data;
+    return api.sendMessage({ body: msg, attachment: stream }, threadID, (err, info) => {
+        global.client.handleReply.push({
+            name: 'monster',
+            messageID: info.messageID,
+            author: senderID,
+            type: "setItem",
+            data: weapon.concat(food, upgrade)
+        });
+    }, messageID);
+}
+
+
+async function increaseDurability({ api, event, Currencies, handleReply }) {
+    try {
+        if(event.body == NaN) return api.sendMessage("❎ Vui lòng nhập một chữ số", event.threadID, event.messageID);
+        if (isNaN(event.body)) return api.sendMessage("❎ Vui lòng nhập 1 con số", event.threadID, event.messageID);
+        const money = (await Currencies.getData(event.senderID)).money;
+        if(money < event.body) return api.sendMessage("❎ Bạn không đủ tiền, hãy làm việc chăm chỉ nhé", threadID, messageID);
+        const item = set.increaseDurability(event.senderID, event.body);
+        await Currencies.decreaseMoney(event.senderID, parseInt(event.body));
+        if (item == 404) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", event.threadID, event.messageID);
+        api.unsendMessage(handleReply.messageID);
+        return api.sendMessage(`✅ Đã gia tăng độ bền thành công, độ bền hiện tại của vật phẩm là ${item}`, event.threadID, event.messageID);
+    }
+    catch (e) {
+        console.log(e);
+    }
+}
+
+async function increaseHp({ api, event, handleReply }) {
+    try {
+        const dataUser = get.getDataUser(event.senderID);
+        if(event.body == NaN) return api.sendMessage("❎ Vui lòng nhập một chữ số", event.threadID, event.messageID);
+        if (isNaN(event.body)) return api.sendMessage("❎ Vui lòng nhập 1 con số", event.threadID, event.messageID);
+        if(dataUser.points < event.body) return api.sendMessage("❎ Bạn không đủ điểm, hãy chăm chỉ cày cuốc nhé", threadID, messageID);
+        const item = set.increaseHP(event.senderID, event.body * 5);
+        set.decreasePoints(event.senderID, event.body);
+        if (item == 404) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", event.threadID, event.messageID);
+        api.unsendMessage(handleReply.messageID);
+        return api.sendMessage(`✅ Đã gia tăng ${event.body * 5} điểm vào HP, tổng HP là ${item}`, event.threadID, event.messageID);
+    }
+    catch (e) {
+        console.log(e);
+    }
+}
+
+async function increaseDef({ api, event, handleReply }) {
+    try {
+        const dataUser = get.getDataUser(event.senderID);
+        if(event.body == NaN) return api.sendMessage("❎ Vui lòng nhập một chữ số", event.threadID, event.messageID);
+        if (isNaN(event.body)) return api.sendMessage("❎ Vui lòng nhập 1 con số", event.threadID, event.messageID);
+        if(dataUser.points < event.body) return api.sendMessage("❎ Bạn không đủ điểm, hãy chăm chỉ cày cuốc nhé", threadID, messageID);
+        const item = set.increaseDEF(event.senderID, event.body * 2);
+        set.decreasePoints(event.senderID, event.body);
+        if (item == 404) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", event.threadID, event.messageID);
+        api.unsendMessage(handleReply.messageID);
+        return api.sendMessage(`✅ Đã gia tăng ${event.body * 2} điểm vào DEF, tổng DEF là ${item}`, event.threadID, event.messageID);
+    }
+    catch (e) {
+        console.log(e);
+    }
+}
+
+async function increaseAtk({ api, event, handleReply }) {
+    try {
+        const dataUser = get.getDataUser(event.senderID);
+        if(event.body == NaN) return api.sendMessage("❎ Vui lòng nhập một chữ số", event.threadID, event.messageID);
+        if (isNaN(event.body)) return api.sendMessage("❎ Vui lòng nhập 1 con số", event.threadID, event.messageID);
+        if(dataUser.points < event.body) return api.sendMessage("❎ Bạn không đủ điểm, hãy chăm chỉ cày cuốc nhé", threadID, messageID);
+        const item = set.increaseATK(event.senderID, event.body * 2);
+        set.decreasePoints(event.senderID, event.body);
+        if (item == 404) return api.sendMessage("❎ Không tìm thấy vật phẩm", event.threadID, event.messageID);
+        api.unsendMessage(handleReply.messageID);
+        return api.sendMessage(`✅ Đã gia tăng ${event.body * 2} điểm vào ATK, tổng ATK là ${item}`, event.threadID, event.messageID);
+    }
+    catch (e) {
+        console.log(e);
+    }
+}
+
+async function increaseSpd({ api, event, handleReply }) {
+    try {
+        const dataUser = get.getDataUser(event.senderID);
+        if(event.body == NaN) return api.sendMessage("❎ Vui lòng nhập một chữ số", event.threadID, event.messageID);
+        if (isNaN(event.body)) return api.sendMessage("❎ Vui lòng nhập 1 con số", event.threadID, event.messageID);
+        if(dataUser.points < event.body) return api.sendMessage("❎ Bạn không đủ điểm, hãy chăm chỉ cày cuốc nhé", threadID, messageID);
+        const item = set.increaseSPD(event.senderID, event.body);
+        set.decreasePoints(event.senderID, event.body);
+        if (item == 404) return api.sendMessage("⚠️ Không tìm thấy vật phẩm", event.threadID, event.messageID);
+        api.unsendMessage(handleReply.messageID);
+        return api.sendMessage(`✅ Đã gia tăng ${event.body} điểm vào SPD, tổng SPD là ${item}`, event.threadID, event.messageID);
+    }
+    catch (e) {
+        console.log(e);
+    }
+}
+
+async function match({ api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const locate = require("./data/monster.json");
+    const dataUser = get.getDataUser(senderID);
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    if (dataUser.locationID == null) return api.sendMessage("❎ Bạn chưa đến khu vực nào", threadID, messageID);
+    const monster = get.getMonster(dataUser.locationID);
+    const minLevel = get.getMinLevel(dataUser.locationID);
+    const maxLevel = get.getMaxLevel(dataUser.locationID);
+    const locationLevel = get.getLocationLevel(dataUser.locationID);
+    if (!monster || monster.length == 0) return api.sendMessage("❎ Không tìm thấy khu vực này hoặc không có quái vật nào ở khu vực này", threadID, messageID);
+    if(dataUser.weapon == null) return api.sendMessage("❎ Bạn chưa lên đồ, bộ bạn định đánh bằng tay không à?", threadID, messageID);
+    if(dataUser.weapon.durability <= 0) return api.sendMessage("⚠️ Vũ khí của bạn đã bị hỏng, sửa đi rồi phang nhau tiếp nhé", threadID, messageID);
+    if(dataUser.level < locationLevel) return api.sendMessage('❎ Bạn chưa đạt đủ level, hãy cày thêm\nLevel khu vực: ' + locationLevel, threadID, messageID);
+    if(dataUser.the_luc < 50) return api.sendMessage("⚠️ Thể lực của bạn không đủ để đánh quái vật, vui lòng ghé cửa hàng để mua thức ăn!", threadID, messageID);
+    if(dataUser.monster.length > 30) return api.sendMessage("⚠️ Bạn đã đầy túi, hãy bán bớt đồ trong túi", threadID, messageID);
+    const random = Math.floor(Math.random() * 1000);
+    var tier = 0;
+    if (random < 340) tier = "I";
+    else if (random < 540) tier = "II";
+    else if (random < 690) tier = "III";
+    else if (random < 790) tier = "IV";
+    else if (random < 840) tier = "V";
+    else if (random < 860) tier = "X";
+    else if (random < 861) tier = "XX";
+    else return api.sendMessage("Bạn không gặp quái vật", threadID, messageID);
+    const monsterTier = monster.filter((item) => item.Tier == tier);
+        if (monsterTier.length == 0) return api.sendMessage('Bạn không gặp quái vật', threadID, messageID);
+    const monsterRandom = monsterTier[Math.floor(Math.random() * monsterTier.length)];
+    var karma = 0
+    if (dataUser.karma >= 10) karma = 10;
+    if (dataUser.karma >= 20) karma = 20;
+    if (dataUser.karma >= 30) karma = 30;
+    if (dataUser.karma >= 40) karma = 40;
+    if (dataUser.karma >= 50) karma = 50;
+    if (dataUser.karma >= 60) karma = 60;
+    if (dataUser.karma >= 70) karma = 70;
+    if (dataUser.karma >= 80) karma = 80;
+    if (dataUser.karma >= 90) karma = 90;
+    if (dataUser.karma >= 100) karma = 100;
+    var level = Math.floor(Math.random() * maxLevel + minLevel) + karma;
+    var threat = "";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 1) threat = "1💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 4400) threat = "2💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 8300) threat = "3💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 28800) threat = "4💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 80000) threat = "5💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 140000) threat = "6💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 275000) threat = "7💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 400000) threat = "8💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 590000) threat = "9💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 800000) threat = "10💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 1000000) threat = "11💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 1200000) threat = "12💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 1500000) threat = "13💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 2000000) threat = "14💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 2600000) threat = "15💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 3920000) threat = "16💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 4300000) threat = "17💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 4900000) threat = "18💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 5600000) threat = "19💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 6000000) threat = "20💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 7000000) threat = "21💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 9000000) threat = "23💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 11000000) threat = "24💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 12500000) threat = "25💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 25000000) threat = "26💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 50000000) threat = "27💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 60000000) threat = "28💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 70000000) threat = "29💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 85000000) threat = "30💀";
+        if(monsterRandom.HP + 4 * monsterRandom.ATK + 3 * monsterRandom.DEF + 5 * monsterRandom.SPD > 90000000) threat = "30+💀";
+
+    const exp = Math.round(monsterRandom.exp + (monsterRandom.exp * 0.15) * (level - 1))
+    var monsterHp = monsterRandom.HP + (monsterRandom.HP * 0.2) * (level - 1)
+    const monsterHP = Math.round(monsterHp)
+    var monsterAtk = monsterRandom.ATK + (monsterRandom.ATK * 0.2) * (level - 1)
+    const monsterATK = Math.round(monsterAtk)
+    var monsterDef = monsterRandom.DEF + (monsterRandom.DEF * 0.2) * (level - 1)
+    const monsterDEF = Math.round(monsterDef)
+    var monsterSpd = monsterRandom.SPD + (monsterRandom.SPD * 0.2) * (level - 1)
+    const monsterSPD = Math.round(monsterSpd)
+    var path = __dirname + "/" + senderID + ".png";
+    var image = await get.getImgMonster(monsterRandom, path);
+    var fs = require('fs-extra');
+    var msgStatus = `[ ENEMY SPOTTED ]\n────────────────\nBạn đã gặp quái vật ${monsterRandom.Name} có chỉ số:\n✏️ Level: ${level}\n❤️ HP: ${monsterHP}\n⚔️ ATK: ${monsterATK}\n🛡️ DEF: ${monsterDEF}\n⚡ SPEED: ${monsterSPD}\n🧟 Chủng: ${monsterRandom.category}\n⚠️ Độ nguy hiểm: ` + threat + `\n👊 Lực Chiến: ${monsterHP + 4 * monsterATK + 3 * monsterDEF + 5 * monsterSPD}\n────────────────\n⭐ Nội tại:\n⚔️ Tăng ATK: ${monsterRandom.ATKbonus * 100}%\n🛡️ Tăng DEF: ${monsterRandom.DEFbonus * 100}%\n⚡ Tăng SPD: ${monsterRandom.SPDbonus * 100}%\n🏹 Xuyên Giáp: ${(1 - monsterRandom.ArmorPiercing) * 100}%`
+       var msg = {
+        body: msgStatus,
+        attachment: image
+    }
+    await api.sendMessage(msg, threadID);
+    fs.unlinkSync(path);
+    await new Promise(resolve => setTimeout(resolve, 3000));
+    await api.sendMessage("🔄 Đang đấm nhau...", threadID);
+    try {
+        var fight = require('./fight.js');
+        var result = fight.fight({
+            HP: ((dataUser.hp + dataUser.weapon.HP) * dataUser.weapon.hpBonus),
+            ATK: ((dataUser.atk + dataUser.weapon.ATK) * dataUser.weapon.dmgBonus),
+            DEF: ((dataUser.def + dataUser.weapon.DEF) * dataUser.weapon.defBonus),
+            SPD: ((dataUser.spd + dataUser.weapon.SPD) * dataUser.weapon.spdBonus),
+            AP: Math.round(dataUser.weapon.ArmorPiercing),
+            Mana: 1
+        }, {
+            HP: (monsterHP),
+            ATK: (monsterATK * monsterRandom.ATKbonus),
+            DEF: (monsterDEF * monsterRandom.DEFbonus),
+            SPD: (monsterSPD * monsterRandom.SPDbonus),
+            AP: Math.round(monsterRandom.ArmorPiercing),
+            Mana: 1
+        });
+        var dur = set.decreaseDurability(senderID);
+        set.karmaUp(senderID);
+        var powPlayer = result.playerPow;
+        set.decreaseHealthWeapon(senderID, powPlayer.HP);
+        var dame = 0,
+            def = 0,
+            dameMonster = 0,
+            defMonster = 0,
+            countTurn = result.log.length
+        result.log.map(i => {
+            if(i.attacker == "player") {
+                dame += i.damage;
+                defMonster += i.defenderDef;
+            }
+            else {
+                dameMonster += i.damage;
+                def += i.defenderDef;
+            }
+        })
+        var msg = `⭐ Bạn và nó đấm nhau trong ${countTurn} hiệp\n👤 Bạn:\n⚔️ Tổng sát thương: ${dame}\n🛡️ Chống chịu: ${def}\n🧌 Quái vật:\n⚔️ Tổng sát thương: ${dameMonster}\n🛡️ Chống chịu: ${defMonster}`;
+        if(dur == 0) await api.sendMessage("⚠️ Vũ khí của bạn đã bị hỏng, sửa đi để còn phang nhau...", threadID);
+        if(dataUser.weapon == null) await api.sendMessage("⚠️ Vũ khí của bạn đã bị hỏng nặng, chúng tôi hết cứu", threadID);
+        if(dataUser.the_luc < 150) await api.sendMessage("⚠️ Thể lực gần cạn, chú ý bổ sung thể lực", threadID);
+        var status = "";
+        if(result.log.length == 1) status = "NHỜN! một vụt là oẳng\n\n";
+        if(result.log.length >= 2) status = "Quá EZ!!!\n\n";
+        if(result.log.length > 10) status = "Quá ghê gớm, bạn và con quái giao cấu mãnh liệt\n\n";
+        if(result.log.length > 20) status = "Bạn và con quái giao cấu tanh bành cả một khu!!!\n\n";
+        if(result.log.length > 30) status = "Dã man tàn bạo vô nhân đạo, bạn và quái giao cấu banh cả map!!!\n\n";
+        if(result.winner == true) {
+            var sendMsg = status + `⭐ Bạn đã hạ được ${monsterRandom.Name} (Tier: ${tier})\nBạn nhận được ${exp}EXP`;
+            set.addMonster(senderID, monsterRandom);
+            set.addHistory(senderID, monsterRandom);
+            await api.sendMessage(sendMsg, threadID);
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            await api.sendMessage("📝 Thống kê trận đấu\n────────────────\n" + msg, threadID);
+            set.setExp(senderID, exp, api, threadID);
+        }
+        else {
+            await api.sendMessage(status + "💔 Bạn đã thua trận đấu", threadID);
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            await api.sendMessage("📝 Thống kê trận đấu★\n\n" + msg, threadID);
+            return;
+        }
+    }
+    catch (e) {
+        return api.sendMessage("⚠️ Đã có lỗi xảy ra liên hệ Admin để fix", threadID, messageID);
+    }
+
+}
+
+async function listLocation({ api, event }) {
+    const { senderID, threadID, messageID } = event;
+    const dataUser = get.getDataUser(senderID);
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    var listLocation = require("./data/monster.json")
+    var msg = "[ MONSTER MAP ]\n────────────────\n🏚️ Các khu vực:\n";
+    listLocation.forEach(location => {
+        msg += `${location.ID + 1}. ${location.location} - Level: ${location.level}\n────────────────\n `;
+    });
+    var stream = await axios.get(global.configMonster.location, { responseType: 'stream' });
+    return api.sendMessage({body: msg, attachment: stream.data}, threadID, (err, info) => {
+        global.client.handleReply.push({
+            name: 'monster',
+            messageID: info.messageID,
+            author: senderID,
+            type: "setLocationID"
+        });
+    }, messageID);
+}
+
+function setLocationID({ api, event, handleReply }) {
+    const { senderID, threadID, messageID } = event;
+    const dataUser = get.getDataUser(senderID);
+    if (!dataUser) return api.sendMessage("❎ Bạn chưa có nhân vật", threadID, messageID);
+    const locationID = Number(event.body) - 1;
+    const location = require("./data/monster.json")[locationID];
+    if (!location) return api.sendMessage("⚠️ Không tìm thấy khu vực", threadID, messageID);
+    set.setLocation(senderID, String(locationID));
+    api.unsendMessage(handleReply.messageID);
+    return api.sendMessage(`✅ Đã đến khu vực ${location.location}`, threadID, messageID);
+}
+
+function pvp(o, id, expression){
+    let tid = o.event.threadID;
+    let send = (msg, cb)=>o.api.sendMessage(msg, tid, cb, o.event.messageID);
+    let data_user = get.getDataUser(id);
+    let pvp_room = pvp_rooms[tid];
+
+    if (!pvp_room)pvp_room = pvp_rooms[tid] = [];
+    if (!data_user)return send(("❎ Bạn chưa có nhân vật"));
+    if (!data_user.weapon)return send("❎ Bạn chưa lên đồ, bộ bạn định đánh bằng tay không à?");
+
+    let room = pvp_room.find($=>$.players.includes(id));
+
+    switch (expression) {
+        case 'list rooms': 
+            send(`${pvp_room.length == 0?'⚠️ không có phòng do chưa có người chơi nào tạo':pvp_room.map(function($, i, o, [p_1, p_2] = $.players.map($=>get.getDataUser($))){return`${i+1}. ${$.title}\n👤 Player 1: ${p_1.name} (${math.power.sum(p_1)} LC)\n👤 Player 2: ${!p_2?'null':`${p_2.name} (${math.power.sum(p_2)} LC)`}\n📝 Status: ${global.configMonster.status_room[$.status]}\n────────────────`}).join('\n')}\n\nReply (phản hồi) join + stt để vào phòng pvp`, (err, res)=>(res.name = 'monster', res.type = 'pvp.rooms', global.client.handleReply.push(res)));
+            break;
+        case 'info room': {
+            if (!room)return send('❎ Bạn chưa tạo or tham gia phòng pvp nào cả');
+
+            let [p_1, p_2] = room.players.map($=>get.getDataUser($));
+
+            send(`[ Phòng PVP Số ${room.stt} - ${room.title}]\n────────────────\n👤 Player 1: ${p_1.name}\n⚔️ Chiến lực: ${math.power.sum(p_1)}\n👤 Player 2: ${!p_2?'null':`${p_2.name}\n⚔️ Chiến lực:${math.power.sum(p_2)}`}\n📝 Status: ${global.configMonster.status_room[room.status]}\n\nThả cảm xúc '👍' để ${id == p_1.id?'bắt đầu':'sẵn sàng'} hoặc '👎' để rời phòng\nReply (phản hồi) 'start' để bắt đầu, 'ready' để sẵn sàng, 'leave' để rời phòng, 'join' để vào phòng`, (err, res)=>(res.name = 'monster', res.type = 'pvp.room.info', res.stt = room.stt, global.client.handleReaction.push(res), global.client.handleReply.push(res)));
+        } break;
+        case 'create room': {
+            if (!!room)return send('❎ Bạn đã tạo or tham gia phòng pvp rồi');
+
+            pvp_room.push({
+                stt: pvp_room.length+1,
+                title: o.event.args.slice(1).join(' '),
+                players: [id],
+                status: 1,
+            });
+            send(`✅ Đã tạo phòng pvp, phòng của bạn là số ${pvp_room.length}`, ()=>pvp(o, id, 'info room'));
+        } break;
+        default:
+          break;
+    }
+}
+
+pvp.room = async(o, id = o.event.senderID, expression = (o.event.args||[])[0], stt = (o.event.args||[])[1])=>{
+    let tid = o.event.threadID;
+    let send = (msg, cb)=>new Promise(r=>o.api.sendMessage(msg, tid, cb||r, o.event.messageID));
+    let data_user = get.getDataUser(id);
+    let pvp_room = pvp_rooms[tid];
+
+    if (id == o.api.getCurrentUserID())return;
+    if (!data_user)return send(("❎ Bạn chưa có nhân vật"));
+    if (!data_user.weapon)return send("❎ Bạn chưa lên đồ, bộ bạn định đánh bằng tay không à?");
+
+    switch (expression) {
+        case 'join': {
+            let room = pvp_room[stt-1] || pvp_room[o.handleReply.stt-1];
+
+            if (!room)return send('⚠️ Phòng không tồn tại');
+            if (room.players.includes(id))return send('❎ Bạn đã trong phòng pvp rồi');
+            if (/^(2|3)$/.test(room.status))return send(global.configMonster.status_room[room.status]);
+
+            room.players.push(id),
+            room.status = 2,
+            room.ready = false,
+            pvp(o, id, 'info room');
+        } break;
+        case 'start':
+        case 'ready':
+        case 'leave': {
+            let room = pvp_room.find($=>$.players.includes(id));
+
+            if (!room)return send('❎ Bạn chưa tạo or tham gia phòng pvp nào cả');
+            if (room.status == 3)return send('⚠️ Trận pvp đang diễn ra không thể thực hiện các thao tác này!')
+            if (expression == 'start' && id != room.players[0])return send('❎ Bạn không phải chủ phòng để có thể bắt đầu trận pvp');
+            //if (expression == 'ready' && id == room.players[0])return send('bạn là chủ phòng nên không cần sẵn sàng');
+            if (expression == 'leave')return(id == room.players[0]?(pvp_room.splice(room.stt-1, 1), send('✅ Đã rời phòng pvp, vì bạn là chủ phòng nên phòng sẽ bị huỷ')):(room.ready = false,room.status == 1,room.players.length == 1?pvp_room.splice(room.stt-1, 1):room.players.splice(room.players.findIndex($=>$ == id), 1), send('✅ Đã rời phòng pvp')));
+            if (id == room.players[1]) {
+                room.ready = !room.ready?true:false;
+                send(`đã ${room.ready?'':'huỷ'} sẵn sàng`);
+            } else if (id == room.players[0]) {
+                if (room.status == 1)return send(global.configMonster.status_room[room.status]);
+                if (!room.ready)return send('⚠️ Đối thủ chưa sẵn sàng');
+
+                room.status = 3,
+                await send('🔄 PVP đang diễn ra...');
+
+                let players = room.players.map($=>get.getDataUser($));
+                let result = require('./pvp.js')(players);
+                let dmg = {
+                    player1: 0,
+                    player2: 0,
+                };
+                let def = {
+                    player1: 0,
+                    player2: 0,
+                };
+
+                result.log.map($=>(dmg[$.attacker] += $.damage, def[$.attacker] += $.defenderDef));
+                send(`[ Kết Quả Trận PVP - ${players[0].name} VS ${players[1].name} ]\n\n⭐ Winner: ${result.winner=='player1'?players[0].name:players[1].name}\n📝 Số Hiệp: ${result.log.length}\n👤 Player 1 - ${players[0].name}:\n⚔️ Tổng Sát Thương Gây Ra: ${dmg.player1}\n🛡️ Chống Chịu: ${def.player2}\n\n👤 Player 2 - ${players[1].name}:\n⚔️ Tổng Sát Thương Gây Ra: ${dmg.player2}\n🛡️ Chống Chịu: ${def.player1}`, (err, res)=>(room.status = 2, room.ready = false));
+            };
+        } break;
+        default: 
+          break;
+    }
+}
+
+module.exports = {
+    createCharecter,
+    getCharacter,
+    getItems,
+    getServer,
+    buyItem,
+    setItem,
+    myItem,
+    increaseDurability,
+    match,
+    listLocation,
+    setLocationID,
+    getWeapon,
+    increaseHp,
+    increaseDef,
+    increaseAtk,
+    increaseSpd,
+    getStats,
+    getRank,
+    pvp,
+    pvp_rooms
+
+}
